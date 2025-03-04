@@ -1,0 +1,12 @@
+# Ignore these file types
+
+*.log
+
+temp/
+
+.vscode
+
+engine-from-scratch/*.obj
+engine-from-scratch/*.ilk
+engine-from-scratch/*.pdb
+engine-from-scratch/*.exe
